@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gome Gumbo! <br/><a href="www.linkedin.com/in/gome-gumbo-162441193">Software Engineer</a></h1>
+<h1>Hi, I'm Gome Gumbo! <br/><a href="www.linkedin.com/in/gome-gumbo-162441193/">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
