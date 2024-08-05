@@ -5,7 +5,9 @@
 - <b>Natural Language Procesing Project </b>
   - [Natural Language Processing in Bank Financial Report Generation](https://github.com/GomeGumbo/Natural-Language-Processing-in-Bank-Financial-Report-Generation)
 - <b>Android Min Project</b>
-  - [AgriBusiness Android App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [AgriBusiness Android App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Practicing Projects</b>
+  - [try](https://github.com)<b><i></b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
