@@ -7,7 +7,7 @@
 - <b>Android Min Project</b>
   - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
 - <b>'Schana' Mark registering project</b>
-  - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
+  - [Schana](https://github.com/GomeGumbo/Schana)
 - <b>Practicing Projects</b>
   - [PDFviewer using C#](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
   - [QR code Generating and scanning(flutter)](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
