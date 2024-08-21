@@ -5,7 +5,7 @@
 - <b>Natural Language Procesing Project </b>
   - [Natural Language Processing in Bank Financial Report Generation](https://github.com/GomeGumbo/Natural-Language-Processing-in-Bank-Financial-Report-Generation)
 - <b>Android Min Project</b>
-  - [AgriBusiness Android App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
 - <b>Practicing Projects</b>
   - [PDFviewer using C#](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
   - [QR code Generating and scanning(flutter)](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
