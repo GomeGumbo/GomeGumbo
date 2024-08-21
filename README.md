@@ -6,7 +6,7 @@
   - [Natural Language Processing in Bank Financial Report Generation](https://github.com/GomeGumbo/Natural-Language-Processing-in-Bank-Financial-Report-Generation)
 - <b>Android Min Project</b>
   - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
-- <b>Android Min Project</b>
+- <b>'Schana' Mark registering project</b>
   - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
 - <b>Practicing Projects</b>
   - [PDFviewer using C#](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
