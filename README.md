@@ -11,7 +11,7 @@
   - [Schanna settings feature](https://github.com/JUMAPETER736/SCANNER_MOBILE-APP)
 - <b>Practicing Projects</b>
   - [PDFviewer using C#](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
-  - [QR code Generating and scanning(flutter)](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
+  - [QR code Generating and scanning(flutter)](https://github.com/GomeGumbo/QRcode-Scanner-and-Generator-)<b><i></b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
