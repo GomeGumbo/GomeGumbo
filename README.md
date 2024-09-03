@@ -6,6 +6,8 @@
   - [Natural Language Processing in Bank Financial Report Generation](https://github.com/GomeGumbo/Natural-Language-Processing-in-Bank-Financial-Report-Generation)
 - <b>Android Min Project</b>
   - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
+- <b>myWorkshop Web App (Flutter)</b>
+  - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
 - <b>'Schana' Mark registering project</b>
   - [Schanna](https://github.com/GomeGumbo/Schanna)
   - [Schanna settings feature](https://github.com/JUMAPETER736/SCANNER_MOBILE-APP)
