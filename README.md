@@ -2,17 +2,23 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Natural Language Procesing Project </b>
+- <b>Top Projects</b>
   - [Natural Language Processing in Bank Financial Report Generation](https://github.com/GomeGumbo/Natural-Language-Processing-in-Bank-Financial-Report-Generation)
-- <b>Android Min Project</b>
-  - [Ndlama Yanga Android App](https://github.com/GomeGumbo/Ndlama-Yanga)
-- <b>myWorkshop Web App (Flutter)</b>
+  - [Invosync](https://github.com/GomeGumbo/Invosync-v1)
+  - [SFA website Front_End - Flutter](https://github.com/GomeGumbo/sfa_web_frontend)
+  - [SFA website Front_End - Python](https://github.com/GomeGumbo/sfa_web_backend-python-)
   - [myWorkshop](https://github.com/GomeGumbo/myWorkshop)
-- <b>'Schana' Mark registering project</b>
   - [Schanna](https://github.com/GomeGumbo/Schanna)
-  - [Schanna settings feature](https://github.com/JUMAPETER736/SCANNER_MOBILE-APP)
-- <b>Practicing Projects</b>
+  
+- <b>Min Project</b>
   - [PDFviewer using C#](https://github.com/GomeGumbo/PDFviewer-using-Csharp)<b><i></b></i>
+  - [Schanna settings feature](https://github.com/JUMAPETER736/SCANNER_MOBILE-APP)
+    
+- <b>Practicing Projects</b>
+  - [Introduction to django framework](https://github.com/GomeGumbo/introduction-to-django-framework)
+  - [Intro to Jupyter machine learning](https://github.com/GomeGumbo/intro-to-jupyter-machine-learning)
+  - [Python with flask framework](https://github.com/GomeGumbo/python-with-flask)
+  - [Responsiveness with Flutter web](https://github.com/GomeGumbo/Responsive-Flutter-web-app)
   - [QR code Generating and scanning(flutter)](https://github.com/GomeGumbo/QRcode-Scanner-and-Generator-)<b><i></b></i>
 
 
