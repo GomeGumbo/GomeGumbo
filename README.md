@@ -19,9 +19,9 @@ Passionate about building efficient digital solutions that empower businesses an
   - [Schanna settings feature](https://github.com/JUMAPETER736/SCANNER_MOBILE-APP)
     
 - <b>Currently Learning</b>
-  - [API intergration]
-  - [Backend security using JWT, OAuth 2.0, HMAC]
-  - [Scalling Web Apps]
+  - API intergration
+  - Backend security using JWT, OAuth 2.0, HMAC
+  - Scalling Web Apps
 
 
 <h2> 🤳 Connect with me:</h2>
