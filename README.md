@@ -1,4 +1,8 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/gome-gumbo-162441193/"> Gome Gumbo!</a> <br/></h1>
+<b>an ICT Specialist, Sofware Engineer, and tech enthusiast from Malawi.<br>
+Passionate about building efficient digital solutions that empower businesses and people across Africa.<br>
+💻 Skilled in Flutter, Python, Java, C#, FastAPI, Flask, JWT, PostgreSQL, FireBase, SupaBase.
+🚀 Always learning, creating, and sharing ideas that make a difference.</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
